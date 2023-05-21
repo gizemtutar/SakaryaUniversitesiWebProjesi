@@ -43,8 +43,8 @@
     <!-- navbar-start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top py-3 border-orange">
         <div class="container">
-            <a href="#" class="navbar-brand "><i class="fa-solid fa-code"></i><span class="fw-bolder"> Mehmet
-                    OK</span></a>
+            <a href="#" class="navbar-brand "><i class="fa-solid fa-code"></i><span class="fw-bolder"> Gizem
+                    TUTAR</span></a>
 
             <!-- md den küçük olunca linkleri kapatıyor -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
